@@ -6,7 +6,6 @@
 	"engines": {
 		"node": "16.x",
 		"npm": ">=7.0.0"
-		"npm": "i request-promise"  
 	},
 	"dependencies": {
 		"@distube/ytdl-core": "^4.13.3",
